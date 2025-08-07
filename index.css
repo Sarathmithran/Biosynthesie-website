@@ -180,7 +180,7 @@ h6 {
 .hero-image {
   width: 100%;
   height: clamp(250px, 50vw, 400px);
-  background: url("./img/main-bg.png") no-repeat center center;
+  background: url("./img/main-bg.webp") no-repeat center center;
   background-size: cover;
   background-position: center;
   object-fit: cover;
